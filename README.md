@@ -1,6 +1,6 @@
 # Recipe Page Project
 
-This repository contains a Vite React project for a recipe page. Follow the instructions below to set up and run the project.
+This repository contains a Vite React project for a recipe page. Follow the instructions below to set up and run the project. A challenge by Frontend Mentor.
 
 ## Prerequisites
 
