@@ -1,5 +1,9 @@
-import Recipe from './components/recipe/Recipe'
+import Recipe from './components/Recipe'
 const App = () => {
-  return <Recipe />
+  return (
+    <main>
+      <Recipe />
+    </main>
+  )
 }
 export default App
