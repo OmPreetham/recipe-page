@@ -39,6 +39,13 @@ body {
 }
 
 main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recipe-section {
   width: 60%;
   background-color: var(--white);
   border-radius: 20px;
@@ -152,7 +159,7 @@ tbody tr td {
   margin: 1rem;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
   #root {
     margin: 0;
   }
@@ -167,6 +174,11 @@ tbody tr td {
   }
 
   section:nth-of-type(1) {
+    margin: 0;
     padding: 0;
+  }
+
+  .recipe-section {
+    width: 100%;
   }
 }
