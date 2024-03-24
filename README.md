@@ -2,6 +2,8 @@
 
 This repository contains a Vite React project for a recipe page. Follow the instructions below to set up and run the project. A challenge by Frontend Mentor.
 
+![Preview](/public/preview.png)
+
 ## Prerequisites
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
