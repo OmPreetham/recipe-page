@@ -2,7 +2,7 @@ const Recipe = () => {
   return (
     <div className="recipe-section">
       <section>
-        <img src="/images/image-omelette.jpeg" alt="" />
+        <img src="images/image-omelette.jpeg" alt="" />
       </section>
       <section>
         <header>
